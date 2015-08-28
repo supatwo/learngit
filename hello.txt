@@ -6,3 +6,4 @@ fixing issue 53
 finish issue 53
 user 2 commit here
 Do some work on master
+Add rabbit white, rabbit black
